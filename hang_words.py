@@ -466,5 +466,12 @@ word_list = [
     'observation',
     'miserable',
     'rung',
-    'coach'
+    'coach',
+    'bite',
+    'kilobyte',
+    'billion',
+    'ring',
+    'disaster',
+    'king',
+    'clock'
 ]
